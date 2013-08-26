@@ -1,6 +1,6 @@
 {
-  "name": "md5caculator",
-  "version": "0.0.2",
+  "name": "md5calculator",
+  "version": "0.0.3",
   "description": "calculate apk or ipa md5",
   "main": "./src/calculator.js",
   "directories": {
